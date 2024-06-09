@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url(/imagens/fundo.jpg) center center no-repeat;
+    background: url(imagens/fundo.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@ main{
 }
 
 section#telefone{
-    background:url(../imagens/frame-iphone.png) no-repeat;
+    background:url(imagens/frame-iphone.png) no-repeat;
     height: 627px;
     width: 311px;
     position: absolute;
